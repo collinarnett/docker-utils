@@ -1,5 +1,3 @@
-# :warning: CURRENTLY UNDER CONSTRUCTION :warning:
-
 ##### Requirements: 
 * NixOS
 * Flakes
